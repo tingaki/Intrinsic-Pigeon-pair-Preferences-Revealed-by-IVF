@@ -1,8 +1,8 @@
 # Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
 
 This space is mainly used to provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF". 
-The repository consists of three parts: 1. program files 2. Data files for estimation 3. Data files for figures and tables. 
-Program files are divided into four parts: 
+The repository consists of three parts: 1. Code files 2. Data files for estimation 3. Data files for figures and tables. 
+Code files are divided into four parts: 
 Part 1: Compilation of raw data (in STATA). 
 Part 2: Estimation of the proportion of delivering mothers who adopt IVF in the mother group indexed by age (a) and family wealth-rank (w) in period (t) using Nonlinear Least Squares (NLS) regression (in STATA).
 Part 3: Estimation of the gender preference parameters of first-birth mothers who adopt IVFs (using Maximum Likelihood Estimation, MLE, in R).
