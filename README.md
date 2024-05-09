@@ -9,3 +9,4 @@ Part 3: Estimation of the gender preference parameters of first-birth mothers wh
 Part 4: Calculation of the MLE standard errors of parameters and the values used in Figures 3(a) and (b) based on the estimates obtained in Part 3 (in STATA). 
 There are two data files for estimation, with the ivf_01.dta corresponding to part 2 of the code files and the ivf_02.dta corresponding to part 3. 
 The Data files for figures and tables include the values of figure 1 to 4, as well as table 1 and 2.
+If you have any questions, please contact us at (cychu-4@econ.sinica.edu.tw).
