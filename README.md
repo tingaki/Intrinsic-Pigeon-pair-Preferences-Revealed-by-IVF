@@ -1,7 +1,7 @@
 # Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
 
-This space is mainly used to provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF". 
-Our files consist of three parts: 1. Code files 2. Data files for estimation 3. Data files for figures and tables. 
+This space is mainly used to provide code files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF". 
+The repository consists of three parts: 1. Code files 2. Data files for estimation 3. Data files for figures and tables. 
 Code files are divided into part 1 to 4. 
 Part 1 explains how the data is merged and compiled. 
 Part 2 is the estimation of equation (1) in the paper. 
