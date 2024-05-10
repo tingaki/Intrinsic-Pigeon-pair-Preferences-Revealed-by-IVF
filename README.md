@@ -1,8 +1,11 @@
 # Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
 
 We provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF", including
+
 A. Code files 
+
 B. Data files for estimation 
+
 C. Data file for figures and tables. 
 
 ■	Code files are divided into four parts: 
