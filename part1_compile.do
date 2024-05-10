@@ -284,6 +284,7 @@ forvalues i = 97/108{
   drop _merge
   replace born_fm_wealth_`j' = . if born_yr != `i'
   drop if  born_fm_wealth_`j' <= 3000 & born_yr == `i'
+  //Given that families with no or very low wealth are unlikely to adopt IVF, we restricted our analysis to mothers whose combined wealth with their spouse (or as single mothers) exceeded NT$3,000 (USD $100).
   xtile pr_born_fm_wealth_`j' = born_fm_wealth_`j',nq(10)
  }
  
