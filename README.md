@@ -16,7 +16,7 @@ Part 2: Estimation of the proportion of delivering mothers who adopt IVF in the 
 
 Part 3: Estimation of the gender preference parameters of first-birth mothers who adopt IVFs (using Maximum Likelihood Estimation, MLE, in R). 
 
-Part 4: Calculation of the MLE standard errors of parameters and the values used in Figures 3(a) and (b) based on the estimates obtained from Part 3 (in STATA). 
+Part 4: Calculation of the MLE standard errors of parameters and the values used in Figures 3 and 4 based on the estimates obtained from Part 3 (in STATA). 
 
 ■ Two data files are used for estimation: 
 
@@ -24,6 +24,6 @@ ivf_01.dta corresponds to Part 2, and
 
 ivf_02.dta corresponds to Part 3
 
-■	The Data file for figures and tables include the values of figure 1 to 4, as well as table 1 and 2 (and Supplementary Material). 
+■	The Data file for figures and tables include the values of figure 1 to 5, as well as table 1 and 2 (and Supplementary Material). 
 
 If you have any questions, please contact us at (cychu-4@econ.sinica.edu.tw).
