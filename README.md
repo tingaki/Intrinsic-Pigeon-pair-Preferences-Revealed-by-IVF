@@ -1,6 +1,6 @@
-# Intrinsic-Pigeon-pair-Preferences-Revealed-by-IVF
+# Parental Mixed-gender Preferences Revealed by IVF Twin Births
 
-We provide program files and data files used in the paper "Intrinsic Pigeon-pair Preferences Revealed by IVF", including
+We provide program files and data files used in the paper "Parental Mixed-gender Preferences Revealed by IVF Twin Births", including
 
 A. Code files 
 
